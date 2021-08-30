@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Scenes/Warning.unity
+    guid: 750e43a0445779a4e948b5f8add0bfa5
+  - enabled: 1
+    path: Assets/Scene/Scenes/MainMenu.unity
+    guid: 6d7e5cd140df2554290a6eb9dad56c10
+  - enabled: 1
+    path: Assets/Scene/Scenes/School.unity
+    guid: 02778db063e5ee846980944a550e48a8
+  - enabled: 1
+    path: Assets/Scene/Scenes/GameOver.unity
+    guid: e5a95d0041bdf8b4a9d2c5d0e6669b39
+  - enabled: 1
+    path: Assets/Scene/Scenes/Results.unity
+    guid: 59146f8fc93291e419aa338cc35531c5
+  - enabled: 1
+    path: Assets/Scene/Scenes/Secret.unity
+    guid: d99a20a0a4468fa4a8717fde65a70019
+  - enabled: 1
+    path: Assets/Scene/Scenes/TestRoom.unity
+    guid: cb4360b0ce6f93b43853506c6d08f763
+  - enabled: 1
+    path: Assets/Scene/Scenes/PlatformGame.unity
+    guid: b9635cae0e54f2f41a04455b2b3cfc40
+  - enabled: 1
+    path: Assets/Photon/PhotonChat/Demos/DemoChat/DemoChat-Scene.unity
+    guid: ec07267f6a28fb044ac89845274e79af
+  - enabled: 1
+    path: Assets/Scene/Scenes/Calculator.unity
+    guid: 9203ef3a757109141a8d043ee79e72e9
+  - enabled: 1
+    path: Assets/Scene/Scenes/GameOverTemperature.unity
+    guid: bf5226e4b55dc844a9ab1329a96be20e
+  m_configObjects: {}

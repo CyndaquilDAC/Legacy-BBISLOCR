@@ -1,0 +1,4 @@
+# Legacy-BBISLOCR
+ the original bbislocr source code. broken but figured i'd throw it out there.
+
+NOTE: THIS IS EXTREMELY MESSY AND UNORGANIZED! I ALSO HANDLED THE CODE VERY POORLY SO THE FORMATTING IS PROBABLY OFF! THIS ISN'T GOOD BY ANY MEANS!
